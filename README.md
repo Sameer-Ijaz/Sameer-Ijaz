@@ -2,6 +2,7 @@
 - 👀 I’m interested in Mobile Application Development.
 - 🌱 I’m currently learning React Native 
 - 📫 Reach me on linkedin https://www.linkedin.com/in/sameer-ijaz-53275a246/
+- Portfolio Site https://sameerijaz.netlify.app/
 
 <!---
 Sameer-Ijaz/Sameer-Ijaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
