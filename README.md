@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sameer-Ijaz
-- 👀 I’m interested in Mobile Application Development.
-- 🌱 I’m currently learning React Native 
+- 👀 I’m interested in Mobile Application Development & Web Development.
+- 🌱 I’m currently learning Artificial Intelligence.
 - 📫 Reach me on linkedin https://www.linkedin.com/in/sameer-ijaz-53275a246/
 - Portfolio Site https://sameerijaz.netlify.app/
 
