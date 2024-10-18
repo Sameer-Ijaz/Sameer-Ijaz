@@ -5,6 +5,7 @@
 - Portfolio Site https://sameerijaz.netlify.app/
 
 - Gmail : sameer.ejaz2001@gmail.com
+- ![](https://komarev.com/ghpvc/?username=Sameer-Ijaz)
 
 <!---
 Sameer-Ijaz/Sameer-Ijaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
