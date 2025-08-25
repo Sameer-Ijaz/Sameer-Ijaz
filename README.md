@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Application Development & Web Development.
 - 🌱 I’m currently learning Artificial Intelligence.
 - 📫 Reach me on linkedin https://www.linkedin.com/in/sameer-ijaz-53275a246/
-- Portfolio Site https://sameerijaz.netlify.app/
+- Portfolio Site https://sameerijaz-dev.netlify.app/
 
 - Gmail : sameer.ejaz2001@gmail.com
 - ![](https://komarev.com/ghpvc/?username=Sameer-Ijaz)
